@@ -1,5 +1,3 @@
-# motionhacker
-Our HWTx theme
 #include <stdio.h>
 int main(void){
 
